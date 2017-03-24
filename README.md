@@ -4,7 +4,7 @@ This is a short coding assignment, in which you will be asked to implement an AP
 
 ## Getting Started
 
-just get the repo
+get the repo
 
 
 ### Prerequisites

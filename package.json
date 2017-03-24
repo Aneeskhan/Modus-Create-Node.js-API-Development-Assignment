@@ -1,4 +1,16 @@
 {
-  "name": "application-name",
-  "version": "0.0.1"
+  "name": "Modus-Create-NodeAPI-Development-Assignment",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Anees",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "2.81.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
 }
