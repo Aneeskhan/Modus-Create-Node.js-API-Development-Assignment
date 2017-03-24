@@ -29,7 +29,7 @@ Explain how to run the automated tests for this system
 ```
 npm run dev
  GET here http://localhost:8888/vehicles/2015/Audi/A3
- POST json here http://localhost:8888/vehicles, 
+ POST json here http://localhost:8888/vehicles, use Postman or other rest client 
 ```
 
 
